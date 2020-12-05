@@ -24,5 +24,10 @@ public class Main {
         System.out.println( "Good bye");
         
         // this is just a comment that was made from github
+
+        // this comment is for a looop
+        for(int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
