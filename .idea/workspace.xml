@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/branch2/Branch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +19,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39617082" />
@@ -45,6 +47,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,30 +112,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github.com added.." />
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="26" key="#Project_Structure" timestamp="1599593768406">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="26" key="#Project_Structure/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599593768406" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1595439172818">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439172818" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1595439176400">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439176400" />
   </component>
 </project>

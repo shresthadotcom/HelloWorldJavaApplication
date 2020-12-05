@@ -1,11 +1,26 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
         System.out.println("hello world ! from github.com..");
         System.out.print("$$$NISHA");
         System.out.println("Java Automation\n");
+
+        System.out.println( "Welcome");
+        int age=new Scanner(System.in).nextInt();
+        String name="John";
+
+        short s;
+        byte b;
+        b=100;
+        s=(short)b; //typecasting
+
+        //byte to short
+        System.out.println(s);
+        System.out.println( "Good bye");
     }
 }
